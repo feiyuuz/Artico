@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="mainUI">
+    <file>../71241c61/overview.png</file>
+    <file>../cc4a61f5/search.png</file>
+    <file>../caa7d29b/main.png</file>
+  </qresource>
+  <qresource prefix="plceholderN">
+    <file>../8bffab36/usb-placeholder.png</file>
+    <file>../c7f39bab/volume-placeholder.png</file>
+    <file>../13303673/wifi-placeholder.png</file>
+  </qresource>
+</RCC>
